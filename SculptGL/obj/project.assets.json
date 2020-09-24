@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Julien\\.nuget\\packages\\": {}
+    "C:\\Users\\julie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julien\\source\\sculptgl\\SculptGL\\SculptGL\\SculptGL.csproj",
+      "projectUniqueName": "C:\\Users\\julie\\sculptgl\\SculptGL\\SculptGL.csproj",
       "projectName": "SculptGL",
-      "projectPath": "C:\\Users\\Julien\\source\\sculptgl\\SculptGL\\SculptGL\\SculptGL.csproj",
-      "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julien\\source\\sculptgl\\SculptGL\\SculptGL\\obj\\",
+      "projectPath": "C:\\Users\\julie\\sculptgl\\SculptGL\\SculptGL.csproj",
+      "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julie\\sculptgl\\SculptGL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

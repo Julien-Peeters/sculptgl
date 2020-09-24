@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SculptGL",
+    "\\SculptGL\\SculptGL"
   ],
+  "SelectedNode": "\\SculptGL\\SculptGL.sln",
   "PreviewInSolutionExplorer": false
 }
