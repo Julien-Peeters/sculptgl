@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "SrZAdyOrhPU6fNy8Qui3NvYhq9bfzmbBbTAK1xFNnPtOLNwJdjqHMKSyW7uGsYxrZTXjsmsMtvhvMLWEeEIxUA==",
+  "dgSpecHash": "jKD+Ex1W9hDB6rCQ2l0S4e3Wkd86WOIVdG2040rT/SBSr2+jPTSshgE1h119dCg/AGZXqb/AVCabYUWYm06d7A==",
   "success": true,
   "projectFilePath": "D:\\OneDrive - AP Hogeschool Antwerpen\\source\\sculptgl\\SculptGL\\SculptGL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\opentk\\4.0.0\\opentk.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.compute\\4.0.0\\opentk.compute.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.core\\4.0.0\\opentk.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.graphics\\4.0.0\\opentk.graphics.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.input\\4.0.0\\opentk.input.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.mathematics\\4.0.0\\opentk.mathematics.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.openal\\4.0.0\\opentk.openal.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.windowing.common\\4.0.0\\opentk.windowing.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.windowing.desktop\\4.0.0\\opentk.windowing.desktop.4.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.0.0\\opentk.windowing.graphicslibraryframework.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

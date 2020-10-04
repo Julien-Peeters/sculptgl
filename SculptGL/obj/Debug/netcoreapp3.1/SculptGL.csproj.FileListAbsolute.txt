@@ -49,8 +49,6 @@ D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\bin\Debug\netcore
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.csprojAssemblyReference.cache
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.AssemblyInfoInputs.cache
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.AssemblyInfo.cs
-D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.csproj.CoreCompileInputs.cache
-D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.MvcApplicationPartsAssemblyInfo.cache
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.RazorAssemblyInfo.cache
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.RazorAssemblyInfo.cs
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.TagHelpers.input.cache
@@ -72,3 +70,4 @@ D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcore
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.pdb
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.genruntimeconfig.cache
 D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\obj\Debug\netcoreapp3.1\SculptGL.csproj.CopyComplete
+D:\OneDrive - AP Hogeschool Antwerpen\source\sculptgl\SculptGL\bin\Debug\netcoreapp3.1\OpenCL.Net.dll
